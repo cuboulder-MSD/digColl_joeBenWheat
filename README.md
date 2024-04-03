@@ -1,1 +1,1 @@
-# digColl_Joe_Ben_Wheat
+# Joe Ben Wheat Collection
