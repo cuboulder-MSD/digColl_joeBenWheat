@@ -1,12 +1,13 @@
-# Joe Ben Wheat Collection
+# Joe Ben Wheat Collection on Textiles
 ## Description
-[Enter abstract of the collection, often found on the landing page and provided by the project owner]
+The images in this collection consist of original research in the form of textile analysis sheets produced by Joe Ben Wheat and students while researching the textiles in the southwestern United States. The documentation of these textiles includes detailed descriptions, images, and dye analysis test results. While most of Wheat's research focused on Navajo textiles, he also studied Pueblo, Hope, Zuni, and Spanish Colonial textiles. All images are sourced from the larger Joe Ben Wheat collection on textiles in the University of Colorado Museum of Natural History (CUMNH) archives. Collection finding aid available at: [https://archives.colorado.edu/repositories/5/resources/2632](https://archives.colorado.edu/repositories/5/resources/2632)
 
-Permanent address to digital collection: []().<br /> 
+
+Permanent address to digital collection: [https://doi.org/10.60807/63zk-ne13](https://doi.org/10.60807/63zk-ne13).<br /> 
 Please use the same link when sharing or citing the collection.
 ## Metadata
 ### Collection Name
-Name of the collection:
+Name of the collection: Joe Ben Wheat Collection on Textiles
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
